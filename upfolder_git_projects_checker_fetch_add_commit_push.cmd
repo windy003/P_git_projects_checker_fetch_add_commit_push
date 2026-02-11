@@ -1,1 +1,1 @@
-python    upfolder_git_projects_checker_fetch.py
+python    upfolder_git_projects_checker_fetch_add_commit_push.py
